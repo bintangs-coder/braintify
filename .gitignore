@@ -1,0 +1,38 @@
+# Composer
+/vendor/
+
+# Environment
+.env
+.env.backup
+.env.production
+
+# Laravel
+/storage/*.key
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+/public/build/
+/public/hot
+/public/storage
+
+# Testing
+.phpunit.result.cache
+/coverage/
+
+# Node
+/node_modules/
+npm-debug.log
+yarn-error.log
