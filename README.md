@@ -32,9 +32,4 @@ php artisan serve
 
 ## Features
 - Skill Exchange - Trade skills for free
-- Mentor Booking - Book sessions with experts
-- Micro Services - Get quick help with tasks
 - Reviews & Ratings
-
-## License
-MIT
